@@ -9,8 +9,8 @@
   "styles": [],
   "packs": [],
   "languages": [],
-  "manifest": "https://raw.githubusercontent.com/Lucky/eterisrpg/main/system.json",
-  "download": "https://github.com/Lucky/eterisrpg/releases/latest/download/eterisrpg.zip",
+  "manifest": "https://github.com/LuckySpren/EterisRPG",
+  "download": "https://github.com/LuckySpren/EterisRPG/releases/download/v0.1/EterisRPG.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
