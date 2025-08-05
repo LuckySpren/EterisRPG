@@ -1,0 +1,18 @@
+{
+  "name": "eterisrpg",
+  "title": "EterisRPG",
+  "description": "Sistema de rol basado en Eteris, con Recidumbre y atributos \u00fanicos como Suerte.",
+  "version": "1.0.1",
+  "author": "Lucky",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "manifest": "https://raw.githubusercontent.com/Lucky/eterisrpg/main/system.json",
+  "download": "https://github.com/Lucky/eterisrpg/releases/latest/download/eterisrpg.zip",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
