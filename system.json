@@ -1,9 +1,9 @@
 {
   "name": "eterisrpg",
   "title": "EterisRPG",
-  "description": "Sistema de rol basado en Eteris, con Recidumbre y atributos \u00fanicos como Suerte.",
+  "description": "Sistema de rol basado en CosmereRPG",
   "version": "1.0.1",
-  "author": "Lucky",
+  "author": "LuckySpren",
   "scripts": [],
   "esmodules": [],
   "styles": [],
